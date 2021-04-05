@@ -7,11 +7,11 @@ from problem2 import impl,impl2
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    # hist_equalization('Night Drive - 2689.mp4', 25, 'Night Drive - 2689_processed')
-    # a = input("Continue to second problem?(y or n)")
-    # if a == 'n':
-    #     raise SystemExit()
+    hist_equalization('Night Drive - 2689.mp4', 25, 'Night Drive - 2689_processed')
+    a = input("Continue to second problem?(y or n)")
+    if a == 'n':
+        raise SystemExit()
 
-    # impl()
+    impl()
 
     impl2()
