@@ -14,4 +14,4 @@ Used libraries:
 
 Run the main file for seeing the results for all the problems in the project.
 
-The output video files are linked in the report
+The output video files are linked in the report file named 673_Project_2.pdf
