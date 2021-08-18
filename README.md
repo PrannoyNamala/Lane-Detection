@@ -13,3 +13,5 @@ Used libraries:
   4)  os
 
 Run the main file for seeing the results for all the problems in the project.
+
+The output video files are linked in the report
